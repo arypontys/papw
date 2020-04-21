@@ -22,7 +22,7 @@
        <sonar.login>172dcb2be692f4e4e8c519c6cdff54125e4c8316</sonar.login>
 
 
-    </properties>>
+    </properties>
 
 	<dependencies>
 		<dependency>
